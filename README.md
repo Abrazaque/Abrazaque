@@ -40,6 +40,7 @@
   <a href="https://www.linkedin.com/in/abdul-razaque-17095320a/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
+  <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  />
 </div>
 
 ###
@@ -47,5 +48,54 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/Abrazaque/Abrazaque/output/snake.svg" alt="Snake animation" />
+
+###
+
+<img src="https://raw.githubusercontent.com/Abrazaque/Abrazaque/output/snake.svg" alt="Snake animation" />
+
+###
+
+<img src="generate-snake-game-from-github-contribution-grid" alt="Snake animation" />
+
+###
+
+<img src="https://raw.githubusercontent.com/Abrazaque/Abrazaque/output/snake.svg" alt="Snake animation" />
+
+###
+
+<img src="https://raw.githubusercontent.com/Abrazaque/Abrazaque/output/snake.svg" alt="Snake animation" />
+
+###
+
+<img src="https://raw.githubusercontent.com/Abrazaque/Abrazaque/output/snake.svg" alt="Snake animation" />
+
+###
+
+<img src="https://raw.githubusercontent.com/Abrazaque/Abrazaque/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="left">
+</div>
+
+###
+
+<div align="left">
+</div>
+
+###
+
+<div align="left">
+</div>
+
+###
+
+<div align="left">
+</div>
+
+###
+
+<div align="left">
+</div>
 
 ###
