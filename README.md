@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://th.bing.com/th/id/OIP.FOKnG4AkFrQFjQacgN8JlQHaH6?pid=ImgDet&rs=1"  />
+<img align="right" height="150" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"  />
 
 ###
 
@@ -55,7 +55,7 @@
 
 ###
 
-<img src="generate-snake-game-from-github-contribution-grid" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Abrazaque/Abrazaque/output/snake.svg" alt="Snake animation" />
 
 ###
 
