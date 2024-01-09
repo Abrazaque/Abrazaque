@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I'm Abdul Razaque.<br>- 📊 Data Scientist extraordinaire.<br>- 🚀 Turning data into actionable insights.<br>- 🤖 Expert in machine learning and data analysis.<br>- 🧩 Passionate about real-world problem-solving.<br>- 🌟 Join me on this data-driven adventure!
+- 👋 Hi, I'm Abdul Razaque.<br>- 📊 AI Engineer @Xflow Research Inc Islamabad.<br>- 🚀 Turning data into actionable insights.<br>- 🤖 Expert in machine learning and data analysis.<br>- 🧩 Passionate about real-world problem-solving.<br>- 🌟 Join me on this data-driven adventure!
 
 
 ## 🌐 Socials:
